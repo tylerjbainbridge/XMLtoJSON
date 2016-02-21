@@ -1,0 +1,139 @@
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": "25",
+"address": 
+{
+"streetAddress": "21 2nd Street",
+"city": {
+"size": "huge",
+"content": "New York"
+}
+
+,
+"state": "NY",
+"postalCode": "10021"
+},
+"phoneNumber": 
+[
+{
+"type": "home",
+"content": "212 555-1234"
+}
+
+,
+{
+"type": "fax",
+"content": "646 555-4567"
+}
+
+]
+,
+"james": 
+{
+"favoriterapper": [
+{
+"album": "TPAB",
+"content": "Kendrick Lamar"
+}
+,
+{
+"bestsong": "U",
+"content": "Kendrick Lamar"
+}
+,
+{
+"city": "LA",
+"content": "Kendrick Lamar"
+}
+
+]
+,
+"jacket": [
+{
+"brand": "jcrew",
+"content": "field jacket"
+}
+,
+{
+"condition": "poor",
+"content": "field jacket"
+}
+,
+{
+"type ": "field",
+"content": "field jacket"
+}
+
+]
+,
+"coffee": [
+{
+"brand": "dunks",
+"content": "large black coffee"
+}
+,
+{
+"cream": "no",
+"content": "large black coffee"
+}
+,
+{
+"suger": "no",
+"content": "large black coffee"
+}
+
+]
+,
+"favoritecolor": "purple"
+},
+"alex": 
+{
+"favoriterapper": [
+{
+"album": "ALAS",
+"content": "A$AP Rocky"
+}
+,
+{
+"bestsong": "1Train",
+"content": "A$AP Rocky"
+}
+,
+{
+"city": "NY",
+"content": "A$AP Rocky"
+}
+
+]
+,
+"favoritemovie": [
+{
+"food": "onion",
+"content": "Shrek"
+}
+,
+{
+"friend": "donkey",
+"content": "Shrek"
+}
+,
+{
+"wife": "Fiona",
+"content": "Shrek"
+}
+
+]
+,
+"favoritecolor": "burnt orange"
+},
+"hussain": 
+{
+"major": "CS",
+"content": "dar"
+}
+
+,
+"random": "silly"
+
+}
